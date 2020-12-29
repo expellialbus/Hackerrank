@@ -111,4 +111,26 @@
 			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/percentage.py">Solution</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<h5>Lists</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/python-lists/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/lists.py">Solution</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<h5>Tuples</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/python-tuples/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/tuples.py">Solution</a>
+		</td>
+	</tr>
 </table>
