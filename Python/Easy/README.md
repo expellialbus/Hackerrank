@@ -133,4 +133,26 @@
 			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/tuples.py">Solution</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<h5>Tuples</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/swap-case/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/swap_case.py">Solution</a>
+		</td>
+	</tr>7
+	<tr>
+		<td>
+			<h5>Tuples</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/python-string-split-and-join/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/split_and_join.py">Solution</a>
+		</td>
+	</tr>
 </table>
