@@ -135,7 +135,7 @@
 	</tr>
 	<tr>
 		<td>
-			<h5>Tuples</h5>
+			<h5>sWAP cASE</h5>
 		</td>
 		<td>
 			<a href="https://www.hackerrank.com/challenges/swap-case/problem">Problem</a>
@@ -146,7 +146,7 @@
 	</tr>7
 	<tr>
 		<td>
-			<h5>Tuples</h5>
+			<h5>String Split and Join</h5>
 		</td>
 		<td>
 			<a href="https://www.hackerrank.com/challenges/python-string-split-and-join/problem">Problem</a>
