@@ -143,7 +143,7 @@
 		<td>
 			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/swap_case.py">Solution</a>
 		</td>
-	</tr>7
+	</tr>
 	<tr>
 		<td>
 			<h5>String Split and Join</h5>
@@ -153,6 +153,28 @@
 		</td>
 		<td>
 			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/split_and_join.py">Solution</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<h5>What's Your Name?</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/whats-your-name/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/name.py">Solution</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<h5>Mutations</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/python-mutations/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/mutations.py">Solution</a>
 		</td>
 	</tr>
 </table>
