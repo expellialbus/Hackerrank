@@ -177,4 +177,26 @@
 			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/mutations.py">Solution</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<h5>Find a String</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/find-a-string/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/find_a_string.py">Solution</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<h5>String Validators</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/string-validators/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/string_validators.py">Solution</a>
+		</td>
+	</tr>
 </table>
