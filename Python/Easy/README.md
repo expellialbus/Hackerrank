@@ -1,5 +1,3 @@
-<h3>Difficulty: Easy</h3>
-
 <table>
 	<tr>
 		<td>
