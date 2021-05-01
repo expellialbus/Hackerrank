@@ -1,4 +1,4 @@
-<h1>This repository contains the solutions of some hackerrank questions.</h1>
+<h1>This repository contains the solutions of some hackerrank problems.</h1>
 
 <h3>My HackerRank profile: <a href="https://www.hackerrank.com/recepyildirim">/recepyildirim</a></h3>
 
