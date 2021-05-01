@@ -207,7 +207,7 @@
 			<a href="https://www.hackerrank.com/challenges/itertools-product/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Medium/itertools_product.py">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/itertools_product.py">Solution</a>
 		</td>
 	</tr>
 </table>
