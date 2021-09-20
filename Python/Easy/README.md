@@ -219,4 +219,15 @@
 			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/string_formatting.py">Solution</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<h5>Text Wrap</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/text-wrap/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/wrap.py">Solution</a>
+		</td>
+	</tr>
 </table>
