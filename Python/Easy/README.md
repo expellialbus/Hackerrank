@@ -208,4 +208,15 @@
 			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/itertools_product.py">Solution</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<h5>String Formatting</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/python-string-formatting/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/string_formatting.py">Solution</a>
+		</td>
+	</tr>
 </table>
