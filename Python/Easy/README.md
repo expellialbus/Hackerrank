@@ -241,4 +241,15 @@
 			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/capitalize.py">Solution</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<h5>Introduction to Sets</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/py-introduction-to-sets/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/sets.py">Solution</a>
+		</td>
+	</tr>
 </table>
