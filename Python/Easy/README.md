@@ -274,4 +274,15 @@
 			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/rangoli.py">Solution</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<h5>Exceptions</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/exceptions/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Easy/exceptions.py">Solution</a>
+		</td>
+	</tr>
 </table>
