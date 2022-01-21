@@ -32,4 +32,15 @@
 			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Medium/time_delta.py">Solution</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<h5>No Idea!</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/no-idea/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Python/Medium/no_idea.py">Solution</a>
+		</td>
+	</tr>
 </table>
