@@ -56,7 +56,7 @@
 	</tr>
 	<tr>
 		<td>
-			<h5>Loops</h5>
+			<h5>Print Function</h5>
 		</td>
 		<td>
 			<a href="https://www.hackerrank.com/challenges/python-print/problem">Problem</a>
