@@ -1,4 +1,6 @@
 def remove_duplicates(arr):
+    # your code goes here
+    
     i = 0
     
     while i < len(arr) - 1:

@@ -1,4 +1,6 @@
 def print_rangoli(size):
+    # your code goes here
+
     result = ""
     for i in range(1, size * 2):
         blank = abs(size - i)

@@ -1,3 +1,5 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+
 def difference(m, n):
     return m.difference(n).union(n.difference(m))
 

@@ -1,4 +1,6 @@
 def print_formatted(number):
+    # your code goes here
+
     length = str(len(bin(number)[2:]) + 1)
     
     result = "{:" + str(int(length) - 1) + "d}{:" + length + "o}{:" + length + "X}{:" + length + "b}"
