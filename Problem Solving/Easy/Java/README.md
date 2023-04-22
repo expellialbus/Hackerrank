@@ -7,7 +7,7 @@
 			<a href="https://www.hackerrank.com/challenges/solve-me-first/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/SolveMeFirst.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/SolveMeFirst.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -18,7 +18,7 @@
 			<a href="https://www.hackerrank.com/challenges/simple-array-sum/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/SimpleArraySum.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/SimpleArraySum.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -29,7 +29,7 @@
 			<a href="https://www.hackerrank.com/challenges/compare-the-triplets/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/CompareTheTriplets.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/CompareTheTriplets.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -40,7 +40,7 @@
 			<a href="https://www.hackerrank.com/challenges/a-very-big-sum/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/AVeryBigSum.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/AVeryBigSum.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -51,7 +51,7 @@
 			<a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/DiagonalDifference.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/DiagonalDifference.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -62,7 +62,7 @@
 			<a href="https://www.hackerrank.com/challenges/plus-minus/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/PlusMinus.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/PlusMinus.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -73,7 +73,7 @@
 			<a href="https://www.hackerrank.com/challenges/staircase/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Staircase.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/Staircase.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -84,7 +84,7 @@
 			<a href="https://www.hackerrank.com/challenges/mini-max-sum/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/MinMaxSum.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/MinMaxSum.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -95,7 +95,7 @@
 			<a href="https://www.hackerrank.com/challenges/birthday-cake-candles/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/BirthdayCakeCandles.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/BirthdayCakeCandles.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -106,7 +106,7 @@
 			<a href="https://www.hackerrank.com/challenges/time-conversion/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/TimeConversion.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/TimeConversion.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -117,7 +117,7 @@
 			<a href="https://www.hackerrank.com/challenges/grading/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/GradingStudents.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/GradingStudents.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -128,7 +128,7 @@
 			<a href="https://www.hackerrank.com/challenges/apple-and-orange/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/AppleAndOrange.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/AppleAndOrange.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -139,7 +139,7 @@
 			<a href="https://www.hackerrank.com/challenges/kangaroo/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/NumberLineJumps.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/NumberLineJumps.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -150,7 +150,7 @@
 			<a href="https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/BreakingTheRecords.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/BreakingTheRecords.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -161,7 +161,7 @@
 			<a href="https://www.hackerrank.com/challenges/the-birthday-bar/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/SubArrayDivision.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/SubArrayDivision.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -172,7 +172,7 @@
 			<a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/DivisibleSumPairs.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/DivisibleSumPairs.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -183,7 +183,7 @@
 			<a href="https://www.hackerrank.com/challenges/migratory-birds/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/MigratoryBirds.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/MigratoryBirds.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -194,7 +194,7 @@
 			<a href="https://www.hackerrank.com/challenges/day-of-the-programmer/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/DayOfTheProgrammer.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/DayOfTheProgrammer.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -205,7 +205,7 @@
 			<a href="https://www.hackerrank.com/challenges/bon-appetit/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/BillDivision.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/BillDivision.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -216,7 +216,7 @@
 			<a href="https://www.hackerrank.com/challenges/sock-merchant/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/SalesByMatch.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/SalesByMatch.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -227,7 +227,7 @@
 			<a href="https://www.hackerrank.com/challenges/drawing-book/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/DrawingBook.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/DrawingBook.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -238,7 +238,7 @@
 			<a href="https://www.hackerrank.com/challenges/counting-valleys/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/CountingValleys.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/CountingValleys.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -249,7 +249,7 @@
 			<a href="https://www.hackerrank.com/challenges/cats-and-a-mouse/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/CatsAndMouse.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/CatsAndMouse.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -260,7 +260,7 @@
 			<a href="https://www.hackerrank.com/challenges/electronics-shop/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/ElectronicsShop.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/ElectronicsShop.java">Solution</a>
 		</td>
 	</tr>
 	<tr>
@@ -271,9 +271,7 @@
 			<a href="https://www.hackerrank.com/challenges/between-two-sets/problem">Problem</a>
 		</td>
 		<td>
-			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/BetweenTwoSets.java">Solution</a>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/BetweenTwoSets.java">Solution</a>
 		</td>
 	</tr>
 </table>
-
-
