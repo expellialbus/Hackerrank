@@ -274,4 +274,15 @@
 			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/BetweenTwoSets.java">Solution</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<h5>Picking Numbers</h5>
+		</td>
+		<td>
+			<a href="https://www.hackerrank.com/challenges/picking-numbers/problem">Problem</a>
+		</td>
+		<td>
+			<a href="https://github.com/recep-yildirim/HackerRank/blob/master/Problem%20Solving/Easy/Java/PickingNumbers.java">Solution</a>
+		</td>
+	</tr>	
 </table>
